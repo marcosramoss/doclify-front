@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-blue-50: #F3F8FF
+}
+
+.custon-container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
